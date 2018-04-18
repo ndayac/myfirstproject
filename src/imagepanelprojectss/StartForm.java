@@ -60,7 +60,7 @@ public class StartForm extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        makepizza.setText("make pizza");
+        makepizza.setText("make");
         makepizza.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 makepizzaActionPerformed(evt);

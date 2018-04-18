@@ -128,7 +128,7 @@
   <SubComponents>
     <Component class="javax.swing.JToggleButton" name="makepizza">
       <Properties>
-        <Property name="text" type="java.lang.String" value="make pizza"/>
+        <Property name="text" type="java.lang.String" value="make"/>
       </Properties>
       <Events>
         <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="makepizzaActionPerformed"/>

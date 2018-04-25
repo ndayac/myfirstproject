@@ -440,7 +440,7 @@ public class StartForm extends javax.swing.JFrame {
     private void beefActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_beefActionPerformed
         // TODO add your handling code here:
         String s = (String ) beef.getSelectedItem();
-        JOptionPane.showMessageDialog(this,"you have selected" +s);
+        JOptionPane.showMessageDialog(this,"you have selected pizza" +s);
                                             
     }//GEN-LAST:event_beefActionPerformed
 
